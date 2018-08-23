@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageTables", "AzureStorageTables\AzureStorageTables.csproj", "{F9272163-AE2E-464E-A84A-386B7C40BCEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageQueue", "AzureStorageQueue\AzureStorageQueue.csproj", "{4BE6229C-838E-46AA-9E70-27346BA67D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmos-db-todo-app", "cosmos-db-todo-app\cosmos-db-todo-app.csproj", "{74D1EF94-9D4F-43E7-934F-1868133347AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F9272163-AE2E-464E-A84A-386B7C40BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9272163-AE2E-464E-A84A-386B7C40BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9272163-AE2E-464E-A84A-386B7C40BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE6229C-838E-46AA-9E70-27346BA67D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE6229C-838E-46AA-9E70-27346BA67D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE6229C-838E-46AA-9E70-27346BA67D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE6229C-838E-46AA-9E70-27346BA67D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D1EF94-9D4F-43E7-934F-1868133347AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D1EF94-9D4F-43E7-934F-1868133347AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D1EF94-9D4F-43E7-934F-1868133347AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D1EF94-9D4F-43E7-934F-1868133347AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
